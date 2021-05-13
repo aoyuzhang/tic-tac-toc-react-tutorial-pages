@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/tic-tac-toc-react-tutorial-pages/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/tic-tac-toc-react-tutorial-pages/static/js/main.e58d993a.chunk.js",
-    "main.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/main.e58d993a.chunk.js.map",
-    "runtime-main.js": "/tic-tac-toc-react-tutorial-pages/static/js/runtime-main.b738968e.js",
-    "runtime-main.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/runtime-main.b738968e.js.map",
-    "static/js/2.51483e64.chunk.js": "/tic-tac-toc-react-tutorial-pages/static/js/2.51483e64.chunk.js",
-    "static/js/2.51483e64.chunk.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/2.51483e64.chunk.js.map",
-    "static/js/3.39fe8954.chunk.js": "/tic-tac-toc-react-tutorial-pages/static/js/3.39fe8954.chunk.js",
-    "static/js/3.39fe8954.chunk.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/3.39fe8954.chunk.js.map",
+    "main.css": "/tic-tac-toc-react-tutorial-pages/static/css/main.eb194731.chunk.css",
+    "main.js": "/tic-tac-toc-react-tutorial-pages/static/js/main.fc0c5abe.chunk.js",
+    "main.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/main.fc0c5abe.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toc-react-tutorial-pages/static/js/runtime-main.17cdc60d.js",
+    "runtime-main.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/runtime-main.17cdc60d.js.map",
+    "static/js/2.5f0d3feb.chunk.js": "/tic-tac-toc-react-tutorial-pages/static/js/2.5f0d3feb.chunk.js",
+    "static/js/2.5f0d3feb.chunk.js.map": "/tic-tac-toc-react-tutorial-pages/static/js/2.5f0d3feb.chunk.js.map",
     "index.html": "/tic-tac-toc-react-tutorial-pages/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/tic-tac-toc-react-tutorial-pages/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.51483e64.chunk.js.LICENSE.txt": "/tic-tac-toc-react-tutorial-pages/static/js/2.51483e64.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tic-tac-toc-react-tutorial-pages/static/media/logo.6ce24c58.svg"
+    "static/css/main.eb194731.chunk.css.map": "/tic-tac-toc-react-tutorial-pages/static/css/main.eb194731.chunk.css.map",
+    "static/js/2.5f0d3feb.chunk.js.LICENSE.txt": "/tic-tac-toc-react-tutorial-pages/static/js/2.5f0d3feb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b738968e.js",
-    "static/js/2.51483e64.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.e58d993a.chunk.js"
+    "static/js/runtime-main.17cdc60d.js",
+    "static/js/2.5f0d3feb.chunk.js",
+    "static/css/main.eb194731.chunk.css",
+    "static/js/main.fc0c5abe.chunk.js"
   ]
 }

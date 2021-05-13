@@ -2,7 +2,7 @@
   "name": "tic-tac-toc-react-tutorial-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aoyuzhang.github.io/react-gh-pages",
+  "homepage": "http://aoyuzhang.github.io/tic-tac-toc-react-tutorial-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
